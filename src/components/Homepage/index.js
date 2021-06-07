@@ -79,11 +79,12 @@ export default function Homepage() {
                         </div>
                         <div className="col-lg-8 align-self-baseline">
                             <p className="text-black-80 font-weight-light mb-5">
-                                Transfer SPL tokens without holding SOL in your wallet!
+                                Improving UX for mass adoption.<br/>
+                                Pay transaction fee without holding SOL in your wallet!
                             </p>
                             <ExternalLink
                                 className="btn btn-primary btn-xl js-scroll-trigger"
-                                href="https://app.metasol.xyz"
+                                href="https://pay.metasol.xyz"
                             >
                                 Launch APP
                             </ExternalLink>

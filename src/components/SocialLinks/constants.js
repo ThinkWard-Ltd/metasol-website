@@ -7,7 +7,7 @@ export const navItems = [
     },
     {
         name: 'Discord',
-        url: 'https://discord.gg/invite/HsVP3KP3VD',
+        url: 'https://discord.gg/invite/zyZuQVHKgA',
         categories: ['social'],
         isExternal: true,
     },

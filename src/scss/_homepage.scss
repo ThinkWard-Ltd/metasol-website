@@ -1,7 +1,7 @@
 // Styling for the homepage
 
 header.homepage {
-  padding-top: 10rem;
+  padding-top: 9rem;
   padding-bottom: calc(10rem - #{$navbar-height});
   background: $background;
   background-position: center;
@@ -14,8 +14,7 @@ header.homepage {
   @include media-breakpoint-up(lg) {
     height: 85.92vh !important;
     min-height: 30rem;
-    padding-top: 11rem;
-    // padding-top: $navbar-height;
+    padding-top: 9rem;
     padding-bottom: 0;
     p {
       font-size: 1.15rem;
